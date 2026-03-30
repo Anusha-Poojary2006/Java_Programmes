@@ -1,3 +1,5 @@
+//Java Programme for right rotation
+
 import java.util.*;
 
 public class rightrotation {
