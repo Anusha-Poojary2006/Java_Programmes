@@ -1,3 +1,5 @@
+//Java Programme for palindrome string
+
 import java.util.Scanner;
 
 public class stringPalindromeOptimal {
