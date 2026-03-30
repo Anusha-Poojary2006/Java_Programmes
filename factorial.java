@@ -1,3 +1,5 @@
+//Java programme to find factorial of given number using recursion function
+
 import java.util.*;
 
 public class factorial {
