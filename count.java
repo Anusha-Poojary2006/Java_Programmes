@@ -1,3 +1,5 @@
+//Java Programme for count the alphabets,number and special characters in a given string
+
 import java.util.Scanner;
 
 public class count {
