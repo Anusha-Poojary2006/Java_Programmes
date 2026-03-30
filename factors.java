@@ -1,3 +1,4 @@
+//Java programme to find factors for given number
 
 import java.util.*;
 public class factors{
