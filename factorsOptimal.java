@@ -1,3 +1,4 @@
+// Optimal solution to find factors of given number
 
 import java.util.*;
 public class factorsOptimal {
