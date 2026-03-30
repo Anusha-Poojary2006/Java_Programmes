@@ -1,3 +1,5 @@
+//Java Programme for reverse the string
+
 import java.util.Scanner;
 
 public class stringReverse {
