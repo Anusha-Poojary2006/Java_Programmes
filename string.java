@@ -1,3 +1,5 @@
+//Java programme to find vowels and constants in the string 
+
 import java.util.Scanner;
 
 public class string {
