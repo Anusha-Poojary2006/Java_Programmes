@@ -1,4 +1,4 @@
-//Java programme to find power of given number
+//Java program to find power of given number
 
 import java.util.Scanner;
 
