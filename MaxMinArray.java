@@ -1,4 +1,4 @@
-//Java programme to find maximum and minimum number in given array
+//Java programe to find maximum and minimum number in given array
 
 import java.util.Scanner;
 
