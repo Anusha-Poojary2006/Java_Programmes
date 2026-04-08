@@ -1,4 +1,4 @@
-//Java programme to find maximum element in the array using recursion
+//Java program to find maximum element in the array using recursion
 
 import java.util.Scanner;
 
