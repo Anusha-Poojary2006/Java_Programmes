@@ -1,4 +1,4 @@
-//Optimal solution for anagram programme 
+//Optimal solution for anagram program
 
 import java.util.Scanner;
 
