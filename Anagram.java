@@ -1,4 +1,4 @@
-//Anagram programme
+//Anagram programe
 
 import java.util.*;
 
