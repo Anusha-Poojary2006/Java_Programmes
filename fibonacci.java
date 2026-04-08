@@ -1,4 +1,4 @@
-// Java Programme to find fibonacci of number
+// Java Program to find fibonacci of number
 
 import java.util.Scanner;
 
