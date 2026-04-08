@@ -1,4 +1,4 @@
-//Java programme to find frequency of characters
+//Java program to find frequency of characters
 
 import java.util.Scanner;
 
