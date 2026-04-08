@@ -1,4 +1,4 @@
-//Java Programme for left rotation
+//Java Program for left rotation
 
 import java.util.*;
 public class leftrotation {
