@@ -1,4 +1,4 @@
-//Java Programme for palindrome string
+//Java Program for palindrome string
 
 import java.util.Scanner;
 
