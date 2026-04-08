@@ -1,4 +1,4 @@
-//Java programme to find factorial of given number using recursion function
+//Java program to find factorial of given number using recursion function
 
 import java.util.*;
 
