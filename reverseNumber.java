@@ -1,4 +1,4 @@
-//Java programme for reverse number using recursion
+//Java program for reverse number using recursion
 
 import java.util.Scanner;
 
