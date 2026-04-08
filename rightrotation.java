@@ -1,4 +1,4 @@
-//Java Programme for right rotation
+//Java Program for right rotation
 
 import java.util.*;
 
