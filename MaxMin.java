@@ -1,4 +1,4 @@
-//Java programme to find maximum and minimum digit in given number
+//Java programe to find maximum and minimum digit in given number
 
 import java.util.*;
 public class MaxMin {
